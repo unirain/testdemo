@@ -1,0 +1,12 @@
+server:
+  port: 8018
+spring:
+  datasource:
+    url: jdbc:oracle:thin:@172.20.1.165:1521:ora8
+    username: ggyw
+    password: ggyw01
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+myName: lool
+
+
+
